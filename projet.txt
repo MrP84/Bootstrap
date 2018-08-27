@@ -1,0 +1,7 @@
+Mon projet est de me reconvertir totalement en développeur full stack
+
+Je pense pouvoir affirmer maîtriser HTML et CSS. Je me débrouille bien en JavaScript mais il y a tellement de choses à savoir!
+
+J'ai découvert les langages annexes, les librairies que sont JQuery et Bootstrap et je ne jure que par elles désormais!
+
+Mes prochaines étapes sont PHP et mySQL puis JAVA pour le dévoloppement d'applications mobiles.
